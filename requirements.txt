@@ -1,0 +1,6 @@
+aiohttp==3.9.5
+eth_account==0.13.0
+fake-useragent==1.5.1
+loguru==0.7.2
+pandas==2.2.2
+canonicaljson==2.0.0
